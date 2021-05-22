@@ -1,5 +1,4 @@
 ## Hi there, I am Atharva 👋
--
 
 <!-- dasfdasdfasdff !-->
 - 🔭 I’m currently working on [Flappy Bird](https://github.com/atharvagangji/flappy-bird)
