@@ -1,6 +1,6 @@
 ## Hi there, I am Atharva 👋
 
-- -
+- 
 
 
 - 🔭 I’m currently working on [Flappy Bird](https://github.com/atharvagangji/flappy-bird)
