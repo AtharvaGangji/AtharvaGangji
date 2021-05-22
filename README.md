@@ -1,6 +1,6 @@
 # Hi there, I am Atharva 👋
 
-<p> A Young Programmer </p>
+
 <!-- dasfdasdfasdff !-->
 - 🔭 I’m currently working on [Flappy Bird](https://github.com/atharvagangji/flappy-bird)
 - 🌱 I’m currently learning [GoDot](https://https://github.com/godotengine)
